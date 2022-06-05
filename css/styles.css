@@ -73,7 +73,6 @@ text-transform: uppercase;}
 font-style: normal;color: var(--color-minitext);background-color:   #2196F3;font-weight: 700;
 font-size: 16px;
 line-height: 1.9;
-
 text-align: center;
 letter-spacing: 0.06em; cursor: pointer;}
 .studio-button:hover, .studio-button :focus {color: var(--color-minitext); background-color:  #2196F3; font-weight: 700;
