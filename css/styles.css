@@ -365,7 +365,8 @@ address {
 }
 
 .link-portfolio.current {
-  color: var(--color-buton);
+  color: #ffffff;
+  background: #2196f3;
 }
 
 .button-link-portfolio .link-portfolio:hover,
